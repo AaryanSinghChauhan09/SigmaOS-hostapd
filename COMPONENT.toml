@@ -3,7 +3,7 @@ name = "SigmaOS-hostapd"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "hostapd component"
+description = "Hostapd"
 upstream = []
 
 [contract]
